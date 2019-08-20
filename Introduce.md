@@ -5,6 +5,17 @@
 비전: 누구나 만족할 수 있는 서비스를 제공하기위해 노력하자!
 ```
 
+# 사례 조사
+<img src="https://user-images.githubusercontent.com/48713654/63310707-b5f6a000-c336-11e9-9dad-a40b02cc95b0.png">
+
+  * 대한민국의 대표적인 배달 어플리케이션으로 전화주문, 바로결제, 만나서결제 서비스를 지원하고 있다.
+
+<img src="https://user-images.githubusercontent.com/48713654/63310831-243b6280-c337-11e9-99d5-3e47037c89ea.jpg">
+
+ * 무료 레시피 오픈 공개 서비스로 영상과 식재료 품목을 사용자에게 제공하고 있다.
+
+---
+
 <img src="https://user-images.githubusercontent.com/48713654/63309941-8b571800-c333-11e9-8c22-4889547d4562.png">
 
 ## 사업계획
