@@ -6,7 +6,9 @@
 ```
 
 # 사례 조사
-<img src="https://user-images.githubusercontent.com/48713654/63310707-b5f6a000-c336-11e9-9dad-a40b02cc95b0.png">
+<img src="https://user-images.githubusercontent.com/48713654/63310707-b5f6a000-c336-11e9-9dad-a40b02cc95b0.png"
+width="300 px" height="300 px"
+>
 
   * 대한민국의 대표적인 배달 어플리케이션으로 전화주문, 바로결제, 만나서결제 서비스를 지원하고 있다.
 
